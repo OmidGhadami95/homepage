@@ -12,7 +12,8 @@
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
 
-# About me
+#About Me
+
 <h2 style="padding-top: 15px;">Education</h2>
 <ul>
   <li style="margin-bottom: 15px;">
@@ -28,7 +29,7 @@
       </div>
     </div>
   </li>
-    <li style="margin-bottom: 15px;">
+  <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 1;">
         <strong>Islamic Azad University, Tehran, Iran</strong>
