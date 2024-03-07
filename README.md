@@ -48,7 +48,7 @@
 # Publications
 
 # Certificates
-
+<ul>
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 1;">
@@ -59,6 +59,26 @@
       </div>
     </div>
   </li>
-
+  <li style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 1;">
+        <strong><div style="margin: 2px;"><a href="https://www.coursera.org/account/accomplishments/certificate/7VNS7JRZPM3A" style="text-decoration: none;"><i class="fab fa-github"></i> Natural Language Processing in TensorFlow</a></div></strong>
+      </div>
+      <div>
+        <strong>August 2022</strong>
+      </div>
+    </div>
+  </li>
+  <li style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 1;">
+        <strong><div style="margin: 2px;"><a href="https://www.coursera.org/account/accomplishments/certificate/PQBGT7FLGRFQ" style="text-decoration: none;"><i class="fab fa-github"></i> Sequences, Time Series and Prediction</a></div></strong>
+      </div>
+      <div>
+        <strong>July 2022</strong>
+      </div>
+    </div>
+  </li>  
+</ul>
 
 
