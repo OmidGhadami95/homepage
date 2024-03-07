@@ -55,7 +55,7 @@
         <strong><div style="margin: 2px;"><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/CBHPLA3BDCCA" style="text-decoration: none;"><i class="fab fa-github"></i> DeepLearning.AI TensorFlow Developer Specialization</a></div></strong>
       </div>
       <div>
-        <strong>August 2022</strong>
+        <strong>Aug 2022</strong>
       </div>
     </div>
   </li>
