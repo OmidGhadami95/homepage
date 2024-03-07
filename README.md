@@ -1,4 +1,4 @@
-# omidghadami.github.io
+# Contact
 
 <!-- Social Media Links -->
 <div style="margin-top: 7px; text-align: left;">
