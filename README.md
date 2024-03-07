@@ -49,7 +49,7 @@
 
 # Certificates
 <ul>
-  <li style="margin-bottom: 12px;">
+  <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 1;">
         <strong><div style="margin: 2px;"><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/CBHPLA3BDCCA" style="text-decoration: none;"><i class="fab fa-github"></i> DeepLearning.AI TensorFlow Developer Specialization</a></div></strong>
@@ -65,7 +65,7 @@
         <strong><div style="margin: 2px;"><a href="https://www.coursera.org/account/accomplishments/certificate/7VNS7JRZPM3A" style="text-decoration: none;"><i class="fab fa-github"></i> Natural Language Processing in TensorFlow</a></div></strong>
       </div>
       <div>
-        <strong>August 2022</strong>
+        <strong>Aug 2022</strong>
       </div>
     </div>
   </li>
