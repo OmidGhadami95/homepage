@@ -15,7 +15,6 @@
 # About Me
 
 # Education
-<h>
 <ul>
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
@@ -53,7 +52,6 @@ recognition in smartphones using EfficientNetV2 and quantization-aware training.
     <li style="margin-bottom: 10px;">
     <strong> (Submitted)</strong> Omid Ghadami, Alireza Rezvanian, and Saeed Shakuri, ”Scalable real-time emotion recognition using EfficientNetV2 and
 resolution scaling.” In 2024 10th International Conference on Web Research (ICWR), IEEE
-  </li>
   </li>
     <li style="margin-bottom: 10px;">
     <strong> (Submitted)</strong> Mohammad Hojjat, Mohammad Javad Shayegan, and Omid Ghadami, ”Low-Dose CT Image Denoising based on EfficientNetV2 and Wasserstein GAN” In 2024 10th International Conference on Web Research (ICWR), IEEE
