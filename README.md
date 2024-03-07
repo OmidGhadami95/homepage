@@ -14,7 +14,7 @@
 
 # About Me
 
-<h2 style="padding-top: 15px;">Education</h2>
+Education
 <ul>
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
