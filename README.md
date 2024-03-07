@@ -10,7 +10,7 @@
   
 </div>
 
-# about me
+# About me
 <div>
   <section>
     <h2>About me</h2>
