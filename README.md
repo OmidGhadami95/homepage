@@ -14,7 +14,8 @@
 
 # About Me
 
-Education
+# Education
+<h>
 <ul>
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
