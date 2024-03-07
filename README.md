@@ -13,16 +13,20 @@
 <!-- ------------------------------------------------------------------------------------------------------ -->
 
 # About me
-<div>
-  <section>
-    <h2>About me</h2>
-    <p>
-    # About me
-    </p>
-    <p style="margin-bottom: 0;">
-        <strong>Highlight of my research experience</strong>
-  </section>
-</div>
+<h2 style="padding-top: 15px;">Education</h2>
+<ul>
+  <li style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 1;">
+        <strong>University of Science and Culture, Tehran, Iran</strong>
+        <br>M.Sc., Data Science
+        <br>Thesis: Real-time emotion recognition using EfficientNetV2
+      </div>
+      <div>
+        <strong>Oct. 2021 - Expected spring 2024</strong>
+      </div>
+    </div>
+  </li>
 
 # About me
 
