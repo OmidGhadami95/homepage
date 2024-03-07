@@ -23,7 +23,7 @@
         <br>Thesis: Real-time emotion recognition using EfficientNetV2
       </div>
       <div>
-        <strong>December 2023</strong>
+        <strong>2019 - 2023</strong>
       </div>
     </div>
   </li>
@@ -34,7 +34,7 @@
         <br>B.Sc., Information Technology Engineering
       </div>
       <div>
-        <strong>2018 - 2021</strong>
+        <strong>2013 - 2019</strong>
       </div>
     </div>
   </li>
