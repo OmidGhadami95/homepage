@@ -25,6 +25,9 @@
       <div>
         <strong>2019 - 2023</strong>
       </div>
+      <div>
+        <strong>GPA: 18.83 / 20 (4 / 4) Ranked first among 28 students</strong>
+      </div>
     </div>
   </li>
     <li style="margin-bottom: 15px;">
