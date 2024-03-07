@@ -27,6 +27,7 @@
       </div>
     </div>
   </li>
+</ul>
 
 # About me
 
