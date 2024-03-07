@@ -19,11 +19,22 @@
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 1;">
         <strong>University of Science and Culture, Tehran, Iran</strong>
-        <br>M.Sc., Data Science
+        <br>M.Sc., Software Engineering
         <br>Thesis: Real-time emotion recognition using EfficientNetV2
       </div>
       <div>
         <strong>Oct. 2021 - Expected spring 2024</strong>
+      </div>
+    </div>
+  </li>
+    <li style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 1;">
+        <strong>Islamic Azad University, Tehran, Iran</strong>
+        <br>B.Sc., Information Technology Engineering
+      </div>
+      <div>
+        <strong>2018 - 2021</strong>
       </div>
     </div>
   </li>
