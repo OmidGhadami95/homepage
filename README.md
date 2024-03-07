@@ -21,7 +21,7 @@
         <strong>University of Science and Culture, Tehran, Iran</strong>
         <br>M.Sc., Software Engineering
         <br>Thesis: Real-time emotion recognition using EfficientNetV2
-        <br>GPA: 4 out of 4. Ranked 1st among 28 students
+        <br>GPA: 4/ 4 (18.83 out of 20). Ranked 1st among 28 students
       </div>
       <div>
         <strong>2019 - 2023</strong>
