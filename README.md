@@ -75,7 +75,7 @@
         <strong><div style="margin: 2px;"><a href="https://www.coursera.org/account/accomplishments/certificate/PQBGT7FLGRFQ" style="text-decoration: none;"><i class="fab fa-github"></i> Sequences, Time Series and Prediction</a></div></strong>
       </div>
       <div>
-        <strong>July 2022</strong>
+        <strong>Jul 2022</strong>
       </div>
     </div>
   </li>  
@@ -85,7 +85,7 @@
         <strong><div style="margin: 2px;"><a href="https://www.coursera.org/account/accomplishments/certificate/M6QK4QRUERU2" style="text-decoration: none;"><i class="fab fa-github"></i> Data Collection and Processing with Python</a></div></strong>
       </div>
       <div>
-        <strong>February 2022</strong>
+        <strong>Feb 2022</strong>
       </div>
     </div>
   </li>  
@@ -95,7 +95,7 @@
         <strong><div style="margin: 2px;"><a href="https://www.coursera.org/account/accomplishments/certificate/PK6DW9AJYVXU" style="text-decoration: none;"><i class="fab fa-github"></i> Convolutional Neural Networks in TensorFlow</a></div></strong>
       </div>
       <div>
-        <strong>November 2021</strong>
+        <strong>Nov 2021</strong>
       </div>
     </div>
   </li>    
@@ -105,7 +105,7 @@
         <strong><div style="margin: 2px;"><a href="https://www.coursera.org/account/accomplishments/certificate/PK6DW9AJYVXU" style="text-decoration: none;"><i class="fab fa-github"></i> Introduction to TensorFlow for ML and DL</a></div></strong>
       </div>
       <div>
-        <strong>November 2021</strong>
+        <strong>Nov 2021</strong>
       </div>
     </div>
   </li>  
