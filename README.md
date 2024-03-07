@@ -89,7 +89,6 @@
       </div>
     </div>
   </li>  
-  </li>  
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 1;">
@@ -100,7 +99,6 @@
       </div>
     </div>
   </li>    
-  </li>  
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 1;">
