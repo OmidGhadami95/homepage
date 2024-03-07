@@ -53,6 +53,8 @@
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 1;">
         <strong><div style="margin: 2px;"><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/CBHPLA3BDCCA" style="text-decoration: none;"><i class="fab fa-github"></i> GitHub</a></div></strong>
+      </div>
+      <div>
         <strong>August 2022</strong>
       </div>
       <div>
