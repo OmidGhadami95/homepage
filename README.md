@@ -9,7 +9,7 @@
         #<div style="margin: 2px;"><a href="Link" style="text-decoration: none;none;"><i class="far fa-file-pdf"></i> CV</a></div>#
   
 </div>
-
+<div>
   <section>
     <h2>About me</h2>
     <p>
@@ -17,7 +17,8 @@
     </p>
     <p style="margin-bottom: 0;">
         <strong>Highlight of my research experience</strong>
-
+  </section>
+</div>
 
 # About me
 
