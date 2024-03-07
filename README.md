@@ -45,7 +45,6 @@
 
 
 # Publications
-<h2 style="padding-top: 15px;">Publications</h2>
 <ul>
   <li style="margin-bottom: 10px;">
     <strong> (Submitted)</strong> Omid Ghadami, Alireza Rezvanian, Saeed Shakuri, and Mohammad Hojjat, ”Real-time facial emotion
