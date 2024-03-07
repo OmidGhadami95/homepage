@@ -44,9 +44,27 @@
 </ul>
 
 
-# Education
-
 # Publications
+<h2 style="padding-top: 15px;">Publications</h2>
+<ul>
+  <li style="margin-bottom: 10px;">
+    <strong> (Submitted)</strong> Omid Ghadami, Alireza Rezvanian, Saeed Shakuri, and Mohammad Hojjat, ”Real-time facial emotion
+recognition in smartphones using EfficientNetV2 and quantization-aware training.” In Neural Computing and Applications, Springer.
+  </li>
+    <li style="margin-bottom: 10px;">
+    <strong> (Submitted)</strong> Omid Ghadami, Alireza Rezvanian, and Saeed Shakuri, ”Scalable real-time emotion recognition using EfficientNetV2 and
+resolution scaling.” In 2024 10th International Conference on Web Research (ICWR), IEEE
+  </li>
+  </li>
+    <li style="margin-bottom: 10px;">
+    <strong> (Submitted)</strong> Mohammad Hojjat, Mohammad Javad Shayegan, and Omid Ghadami, ”Low-Dose CT Image Denoising based on EfficientNetV2 and Wasserstein GAN” In 2024 10th International Conference on Web Research (ICWR), IEEE
+  </li>
+  <li style="margin-bottom: 10px;">
+    <div>
+<strong> (In preparation) </strong> <strong>Saeed Shakuri </strong>, Alireza Rezvanian, ”Few-Shot object detection using Vision Transformers”.
+    </div>
+  </li>
+</ul>
 
 # Certificates
 <ul>
