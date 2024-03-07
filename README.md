@@ -6,7 +6,7 @@
   <div style="margin: 2px;"><a href="mailto:omidghadami1995@gmail.com" style="text-decoration: none;"><i class="far fa-envelope"></i> Email</a></div>
   <div style="margin: 2px;"><a href="mailto:omidghadami@stu.usc.ac.ir" style="text-decoration: none;"><i class="far fa-envelope"></i> Email</a></div>
   
-        #<div style="margin: 2px;"><a href="Link" style="text-decoration: none;none;"><i class="far fa-file-pdf"></i> CV</a></div>#
+        <div style="margin: 2px;"><a href="Link" style="text-decoration: none;none;"><i class="far fa-file-pdf"></i> CV</a></div>
   
 </div>
 
