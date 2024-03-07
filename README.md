@@ -51,10 +51,10 @@ recognition in smartphones using EfficientNetV2 and quantization-aware training.
   </li>
     <li style="margin-bottom: 10px;">
     <strong> (Submitted)</strong> Omid Ghadami, Alireza Rezvanian, and Saeed Shakuri, ”Scalable real-time emotion recognition using EfficientNetV2 and
-resolution scaling.” In 2024 10th International Conference on Web Research (ICWR), IEEE
+resolution scaling.” In 2024 10th International Conference on Web Research (ICWR), IEEE, Apr 2024
   </li>
     <li style="margin-bottom: 10px;">
-    <strong> (Submitted)</strong> Mohammad Hojjat, Mohammad Javad Shayegan, and Omid Ghadami, ”Low-Dose CT Image Denoising based on EfficientNetV2 and Wasserstein GAN” In 2024 10th International Conference on Web Research (ICWR), IEEE
+    <strong> (Submitted)</strong> Mohammad Hojjat, Mohammad Javad Shayegan, and Omid Ghadami, ”Low-Dose CT Image Denoising based on EfficientNetV2 and Wasserstein GAN” In 2024 10th International Conference on Web Research (ICWR), IEEE, Apr 2024
   </li>
   <li style="margin-bottom: 10px;">
     <div>
