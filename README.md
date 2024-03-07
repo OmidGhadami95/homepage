@@ -58,8 +58,7 @@
         <strong>August 2022</strong>
       </div>
     </div>
+  </li>
 
-  
-        #<div style="margin: 2px;"><a href="Link" style="text-decoration: none;none;"><i class="far fa-file-pdf"></i> CV</a></div>#
 
 
