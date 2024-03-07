@@ -23,7 +23,7 @@
         <br>Thesis: Real-time emotion recognition using EfficientNetV2
       </div>
       <div>
-        <strong>Oct. 2021 - Expected spring 2024</strong>
+        <strong>December 2023</strong>
       </div>
     </div>
   </li>
