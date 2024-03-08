@@ -97,7 +97,7 @@ resolution scaling.” In 2024 10th International Conference on Web Research (IC
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 3;">
         <strong> Emotion recognition using CNNs on CK+, FER2013, and KDEF datasets </strong>
-        <br> Further research on the facial emotion recognition in GPU using different CNNs, Quantization-Aware Training (QAT), and Post-Training Quantization (PTQ) for improving human-computer interaction. A part of this research is in <a href="https://github.com/OmidGhadami95/EfficientNetV2_Quantization_CK"> <strong style="color: #8ac6d1;"> this link.</strong></a>
+        <br> Further research on the facial emotion recognition in GPU using different CNNs, Quantization-Aware Training (QAT), and Post-Training Quantization (PTQ) for improving human-computer interaction. A part of this research is in <a href="https://github.com/OmidGhadami95/EfficientNetV2_Quantization_CK"> <strong style="color: #4da6ff;"> this link.</strong></a>
       </div>
       <div>
         <strong>2022-2023</strong>
