@@ -14,7 +14,7 @@
   <div style="flex: 3; padding: 20px;">
     <section>
       <p>
-          I obtained my M.Sc. in Software Engineering major under the supervision of <a href="http://rezvanian.usc.ac.ir/en"> Dr. Alireza Rezvanian</a> at the University of Science and Culture, Tehran, Iran. I am AI enthusiastic, and passionate about research in different tasks using Machine Learning methods, especially the intersection of Deep Learning, Computer Vision, and Data Science. Also, I am committed to performing continuous and novel research in these subsets. Starting in fall 2023, <strong>I’m actively looking for Ph.D. positions in the Deep Learning context for fall 2024 to pursue my academic journey to becoming an effective AI researcher.</strong> Any feedback from you is welcome and helpful for my success. Hence, feel free to contact me at any time.
+          I obtained my M.Sc. in Software Engineering major under the supervision of <strong><a href="http://rezvanian.usc.ac.ir/en"> Dr. Alireza Rezvanian</a></strong> at the University of Science and Culture, Tehran, Iran. I am AI enthusiastic, and passionate about research in different tasks using Machine Learning methods, especially the intersection of Deep Learning, Computer Vision, and Data Science. Also, I am committed to performing continuous and novel research in these subsets. Starting in fall 2023, <strong>I’m actively looking for Ph.D. positions in the Deep Learning context for fall 2024 to pursue my academic journey to becoming an effective AI researcher.</strong> Any feedback from you is welcome and helpful for my success. Hence, feel free to contact me at any time.
       </p>
     </section>
       <h4 style="margin-bottom: 0;">Research interests:</h4>
