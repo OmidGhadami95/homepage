@@ -73,7 +73,7 @@
   </li>
 </ul>
 
-# Publications
+# Publication Records
 <ul>
   <li style="margin-bottom: 10px;">
     <strong> (Submitted)</strong> Omid Ghadami, Alireza Rezvanian, Saeed Shakuri, and Mohammad Hojjat, ”Real-time facial emotion
@@ -88,7 +88,7 @@ resolution scaling.” In 2024 10th International Conference on Web Research (IC
     </li>
 </ul>
 
-# Teaching, Research, & Technical Experiences
+# Selective Research, Technical, and Teaching Experiences
 <ul>
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
