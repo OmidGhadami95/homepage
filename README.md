@@ -62,7 +62,7 @@
         <br> Further research on the facial emotion recognition in GPU using different CNNs, Quantization-Aware Training (QAT), and Post-Training Quantization (PTQ) for improving human-computer interaction. A part of this research is in <a href="https://github.com/OmidGhadami95/EfficientNetV2_Quantization_CK"> this link</a>.
       </div>
       <div>
-        <strong>Fall 2023</strong>
+        <strong>2022 - 2023</strong>
       </div>
     </div>
   </li>
