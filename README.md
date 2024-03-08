@@ -59,7 +59,7 @@
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 1;">
         <strong> Emotion recognition using CNNs on CK+, FER2013, and KDEF datasets </strong>
-        <br> Further research on the facial emotion recognition in GPU using different CNNs, Quantization-Aware Training (QAT), and Post-Training Quantization (PTQ) for improving human-computer interaction. A part of this research is in <a href="https://github.com/OmidGhadami95/EfficientNetV2_Quantization_CK"> this link</a>.
+        <br> Further research on the facial emotion recognition in GPU using different CNNs, Quantization-Aware Training (QAT), and Post-Training Quantization (PTQ) for improving human-computer interaction. A part of this research is in <a href="https://github.com/OmidGhadami95/EfficientNetV2_Quantization_CK"> <strong> this link </strong></a>.
       </div>
       <div>
         <strong>2022 - 2023</strong>
