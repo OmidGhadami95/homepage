@@ -73,6 +73,21 @@
   </li>
 </ul>
 
+# Publications
+<ul>
+  <li style="margin-bottom: 10px;">
+    <strong> (Submitted)</strong> Omid Ghadami, Alireza Rezvanian, Saeed Shakuri, and Mohammad Hojjat, ”Real-time facial emotion
+recognition in smartphones using EfficientNetV2 and quantization-aware training.” In Neural Computing and Applications, Springer.
+  </li>
+    <li style="margin-bottom: 10px;">
+    <strong> (Submitted)</strong> Omid Ghadami, Alireza Rezvanian, and Saeed Shakuri, ”Scalable real-time emotion recognition using EfficientNetV2 and
+resolution scaling.” In 2024 10th International Conference on Web Research (ICWR), IEEE, Apr 2024
+  </li>
+    <li style="margin-bottom: 10px;">
+    <strong> (Submitted)</strong> Mohammad Hojjat, Mohammad Javad Shayegan, and Omid Ghadami, ”Low-Dose CT Image Denoising based on EfficientNetV2 and Wasserstein GAN” In 2024 10th International Conference on Web Research (ICWR), IEEE, Apr 2024
+    </li>
+</ul>
+
 # Teaching, Research, & Technical Experiences
 <ul>
   <li style="margin-bottom: 15px;">
@@ -134,22 +149,6 @@
       </div>
     </div>
   </li>
-</ul>
-
-
-# Publications
-<ul>
-  <li style="margin-bottom: 10px;">
-    <strong> (Submitted)</strong> Omid Ghadami, Alireza Rezvanian, Saeed Shakuri, and Mohammad Hojjat, ”Real-time facial emotion
-recognition in smartphones using EfficientNetV2 and quantization-aware training.” In Neural Computing and Applications, Springer.
-  </li>
-    <li style="margin-bottom: 10px;">
-    <strong> (Submitted)</strong> Omid Ghadami, Alireza Rezvanian, and Saeed Shakuri, ”Scalable real-time emotion recognition using EfficientNetV2 and
-resolution scaling.” In 2024 10th International Conference on Web Research (ICWR), IEEE, Apr 2024
-  </li>
-    <li style="margin-bottom: 10px;">
-    <strong> (Submitted)</strong> Mohammad Hojjat, Mohammad Javad Shayegan, and Omid Ghadami, ”Low-Dose CT Image Denoising based on EfficientNetV2 and Wasserstein GAN” In 2024 10th International Conference on Web Research (ICWR), IEEE, Apr 2024
-    </li>
 </ul>
 
 # Certificates
