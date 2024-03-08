@@ -48,8 +48,7 @@
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 1;">
         <strong> Teaching Assistant, University of Science and Culture, Tehran, Iran</strong>
-        <br>-	Teaching assistant of the Undergraduate Artificial Intelligence course. Instructor name: Dr. Azadeh Tabatabaei
-        <br>Dr. Azadeh Tabatabei
+        <br>	Teaching assistant of the Undergraduate Artificial Intelligence course. Instructor name: Dr. Azadeh Tabatabaei
       </div>
       <div>
         <strong>Fall 2023</strong>
@@ -60,8 +59,7 @@
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 1;">
         <strong> Emotion recognition using CNNs on CK+, FER2013, and KDEF datasets </strong>
-        <br>University of Science and Culture
-        <br> Further research on the facial emotion recognition in GPU using different CNNs, Quantization-Aware Training (QAT), and Post-Training Quantization (PTQ) for improving human-computer interaction. A part of this research is in the link below.
+        <br> Further research on the facial emotion recognition in GPU using different CNNs, Quantization-Aware Training (QAT), and Post-Training Quantization (PTQ) for improving human-computer interaction. A part of this research is in <a href="https://github.com/OmidGhadami95/EfficientNetV2_Quantization_CK"> this link</a>.
       </div>
       <div>
         <strong>Fall 2023</strong>
