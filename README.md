@@ -27,7 +27,7 @@
         <strong> Ranked 1st </strong> in the master's among 28 students of Software Engineering major with a <strong> 4/ 4 GPA </strong> at the University of Science and Culture, Tehran, Iran. 
       </div>
       <div>
-        <strong>Fall 2023</strong>
+        <strong>2023</strong>
       </div>
     </div>
   </li>
@@ -39,7 +39,7 @@
          Achieving <strong> ISO 9001:2015 </strong> in quality for manufacturing of Solid, Semi Tubular and Electric contact rivets as the <strong> product manager </strong> of Electro Sadra Company, Tehran, Iran. 
       </div>
       <div>
-        <strong>Fall 2022</strong>
+        <strong>2022</strong>
       </div>
     </div>
   </li>
