@@ -97,7 +97,7 @@ resolution scaling.” In 2024 10th International Conference on Web Research (IC
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 3;">
         <strong> Emotion recognition using CNNs on CK+, FER2013, and KDEF datasets </strong>
-        <br> Further research on the facial emotion recognition in GPU using different CNNs, Quantization-Aware Training (QAT), and Post-Training Quantization (PTQ) for improving human-computer interaction. A part of this research is in <a href="https://github.com/OmidGhadami95/EfficientNetV2_Quantization_CK"> <strong style="color: #4da6ff;"> this link.</strong></a>
+        <br> Further research on the facial emotion recognition in GPU using different CNNs, Quantization-Aware Training (QAT), and Post-Training Quantization (PTQ) for improving human-computer interaction. A part of this research is in <strong><a href="https://github.com/OmidGhadami95/EfficientNetV2_Quantization_CK"> this link.</a></strong>
       </div>
       <div>
         <strong>2022-2023</strong>
@@ -109,7 +109,7 @@ resolution scaling.” In 2024 10th International Conference on Web Research (IC
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 3;">
         <strong> Explainable AI and hyperparameter tuning on the Cats VS Dogs dataset </strong>
-        <br> Binary classification, SHAP (Explainable Artificial Intelligence), and Grid Search (for tuning hyperparameters) using EfficientNetV2-B0 on Cat VS Dog dataset. A part of this research is in <strong style="color: #4da6ff;"><a href="https://github.com/OmidGhadami95/EfficientNetV2_CatVSDog"> this link. </a></strong>
+        <br> Binary classification, SHAP (Explainable Artificial Intelligence), and Grid Search (for tuning hyperparameters) using EfficientNetV2-B0 on Cat VS Dog dataset. A part of this research is in <strong><a href="https://github.com/OmidGhadami95/EfficientNetV2_CatVSDog"> this link. </a></strong>
       </div>
       <div>
         <strong>2022-2023</strong>
@@ -121,7 +121,7 @@ resolution scaling.” In 2024 10th International Conference on Web Research (IC
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 3;">
         <strong> Transport Mode Detection using smartphone sensors (Accelerometer, Gyroscope, GPS) </strong>
-        <br>	A comprehensive analysis of the GeoLife and SHL datasets, including loading data, visualizing, outlier detection, etc. In addition, I read state-of-the-art articles for this task at that time and only a little part of this research is in <a href="https://github.com/OmidGhadami95/Geolife-OutlierDetection-TMD"> <strong style="color: #4da6ff;"> this link. </strong></a>
+        <br>	A comprehensive analysis of the GeoLife and SHL datasets, including loading data, visualizing, outlier detection, etc. In addition, I read state-of-the-art articles for this task at that time and only a little part of this research is in <strong><a href="https://github.com/OmidGhadami95/Geolife-OutlierDetection-TMD"> this link. </a></strong>
       </div>
       <div>
         <strong>2022</strong>
@@ -133,7 +133,7 @@ resolution scaling.” In 2024 10th International Conference on Web Research (IC
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 3;">
         <strong> Plant disease detection via leaf images on PlantVillage dataset using EfficientNetV2-B0</strong>
-        <br> Plant disease detection using pre-trained weights of EfficientNetV2-B0 this implementation is in <a href="https://github.com/OmidGhadami95/EfficientNetV2B0---PlantVillage"> <strong style="color: #4da6ff;"> this link. </strong></a>
+        <br> Plant disease detection using pre-trained weights of EfficientNetV2-B0 this implementation is in <strong><a href="https://github.com/OmidGhadami95/EfficientNetV2B0---PlantVillage"> this link. </a></strong>
       </div>
       <div>
         <strong>2020</strong>
