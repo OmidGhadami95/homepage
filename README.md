@@ -109,7 +109,7 @@ resolution scaling.” In 2024 10th International Conference on Web Research (IC
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 3;">
         <strong> Explainable AI and hyperparameter tuning on the Cats VS Dogs dataset </strong>
-        <br> Binary classification, SHAP (Explainable Artificial Intelligence), and Grid Search (for tuning hyperparameters) using EfficientNetV2-B0 on Cat VS Dog dataset. A part of this research is in <a href="https://github.com/OmidGhadami95/EfficientNetV2_CatVSDog"> <strong> this link. </strong></a>
+        <br> Binary classification, SHAP (Explainable Artificial Intelligence), and Grid Search (for tuning hyperparameters) using EfficientNetV2-B0 on Cat VS Dog dataset. A part of this research is in <strong><a href="https://github.com/OmidGhadami95/EfficientNetV2_CatVSDog"> this link. </a></strong>
       </div>
       <div>
         <strong>2022-2023</strong>
