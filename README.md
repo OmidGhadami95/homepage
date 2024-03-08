@@ -21,7 +21,7 @@
     <p style="margin-top: 8;">
         Machine Learning, Deep Learning, Computer Vision, Data Mining, HCI/ HRI, Optimization for Machine Learning, Computing efficiency of Deep Learning, DNN
     </p>
-
+  </div>
 
 
 # Education
