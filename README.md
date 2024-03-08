@@ -14,11 +14,33 @@
 <!-- ------------------------------------------------------------------------------------------------------ -->
 
 # About Me
-
-    <p>
+    <section>
+      <p>
           I obtained my M.Sc. in Software Engineering major under the supervision of <a href="http://rezvanian.usc.ac.ir/en"> Dr. Alireza Rezvanian</a> at the University of Science and Culture, Tehran, Iran. I am AI enthusiastic, and passionate about research in different tasks using Machine Learning methods, especially the intersection of Deep Learning, Computer Vision, and Data Science. Also, I am committed to performing continuous and novel research in these subsets. Starting in fall 2023, <strong>I’m actively looking for Ph.D. positions in the Deep Learning context for fall 2024 to pursue my academic journey to becoming an effective AI researcher.</strong> Any feedback from you is welcome and helpful for my success. Hence, feel free to contact me at any time.
+      </p>
+      <h4 style="margin-bottom: 0;">Research interests:</h4>
+    <p style="margin-top: 8;">
+        Machine Learning, Deep Learning, Computer Vision, Data Mining, HCI/ HRI, Optimization for Machine Learning, Computing efficiency of Deep Learning, DNN
     </p>
 
+      <section>
+        <h2>About me</h2>
+        <p>
+            I am a master's student in Data Science major under the supervision of <a href="http://rezvanian.usc.ac.ir/en"> Dr. Alireza Rezvanian</a> at the University of Science and Culture, Tehran, Iran. I am truly enthusiastic about doing research at the forefront of Deep Learning methods within real-world applications in general but with some emphasis on the Computer Vision context. I recognize the importance and my passion for this field, and I am committed to performing continuous and comprehensive research in my field of study. <strong>Starting fall 2023, I’m actively looking for Ph.D. positions in the Deep Learning context with some emphasis on Computer Vision for fall 2024.</strong>
+        </p>
+        <p style="margin-bottom: 0;">
+            <strong>Highlight of my research experience</strong>
+        </p>
+        <ul style="margin-top: 8;">
+            <li>I am currently working on Few-Shot object detection for my master's thesis, utilizing a method that integrates Few-Shot Learning and Vision Transformers.</li>
+            <li style="padding-top: 15px;"> I recently collaborated on two articles titled  <strong>’Real-time facial emotion recognition in smartphones using EfficientNetV2 and
+                quantization-aware training’ </strong> and  <strong>’Scalable real-time emotion recognition using EfficientNetV2 and resolution scaling.’ </strong>, which are submitted to ”Neural Computing and Applications (Springer)” and ”ICWR 10th (IEEE)” respectively.</li>
+        </ul>
+    </section>
+      <h4 style="margin-bottom: 0;">Research interests:</h4>
+      <p style="margin-top: 8;">
+        Deep Learning, Computer Vision, Few-Shot Learning, Vision Transformers
+      </p>
 
 # Education
 <ul>
