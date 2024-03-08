@@ -108,6 +108,39 @@ resolution scaling.” In 2024 10th International Conference on Web Research (IC
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 1;">
+        <strong><div style="margin: 2px;"><a href="https://www.coursera.org/account/accomplishments/certificate/L8XQRMPKCVMM" style="text-decoration: none;"><i class="fab fa-github"></i> Python Functions, Files, and Dictionaries</a></div></strong>
+      </div>
+      <div>
+        <strong>Feb 2022</strong>
+      </div>
+    </div>
+  </li>  
+
+  <li style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 1;">
+        <strong><div style="margin: 2px;"><a href="https://www.coursera.org/account/accomplishments/certificate/QXADNQJX2YMH" style="text-decoration: none;"><i class="fab fa-github"></i> Getting Started with Python</a></div></strong>
+      </div>
+      <div>
+        <strong>Jan 2022</strong>
+      </div>
+    </div>
+  </li>  
+
+  <li style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 1;">
+        <strong><div style="margin: 2px;"><a href="https://www.coursera.org/account/accomplishments/certificate/CHLY7LLKMA2G" style="text-decoration: none;"><i class="fab fa-github"></i> Python Data Structures</a></div></strong>
+      </div>
+      <div>
+        <strong>Jan 2022</strong>
+      </div>
+    </div>
+  </li>  
+  
+  <li style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 1;">
         <strong><div style="margin: 2px;"><a href="https://www.coursera.org/account/accomplishments/certificate/PK6DW9AJYVXU" style="text-decoration: none;"><i class="fab fa-github"></i> Convolutional Neural Networks in TensorFlow</a></div></strong>
       </div>
       <div>
