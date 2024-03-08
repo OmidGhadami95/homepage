@@ -70,7 +70,7 @@
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 1;">
-        <strong> ■	Transport Mode Detection using smartphone sensors (Accelerometer, Gyroscope, GPS) </strong>
+        <strong> Transport Mode Detection using smartphone sensors (Accelerometer, Gyroscope, GPS) </strong>
         <br>	A comprehensive analysis of the GeoLife and SHL datasets, including loading data, visualizing, outlier detection, etc. In addition, I read state-of-the-art articles for this task at that time and only a little part of this research is in <a href="https://github.com/OmidGhadami95/Geolife-OutlierDetection-TMD"> <strong> this link </strong></a>.
       </div>
       <div>
@@ -83,10 +83,10 @@
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 1;">
         <strong> Plant disease detection via leaf images on PlantVillage dataset using EfficientNetV2-B0</strong>
-        <br> -	Plant disease detection using pre-trained weights of EfficientNetV2-B0 this implementation is in <a href="https://github.com/OmidGhadami95/EfficientNetV2B0---PlantVillage"> <strong> this link </strong></a>.
+        <br> Plant disease detection using pre-trained weights of EfficientNetV2-B0 this implementation is in <a href="https://github.com/OmidGhadami95/EfficientNetV2B0---PlantVillage"> <strong> this link </strong></a>.
       </div>
       <div>
-        <strong>Fall 2023</strong>
+        <strong>2020</strong>
       </div>
     </div>
   </li>
