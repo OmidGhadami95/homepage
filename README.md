@@ -79,7 +79,7 @@ resolution scaling.” In 2024 10th International Conference on Web Research (IC
     </li>
 </ul>
 
-# Selective Research, Technical, and Teaching Experiences
+# Selective Research, Technical, and TA Experiences
 <ul>
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
