@@ -121,7 +121,7 @@ resolution scaling.” In 2024 10th International Conference on Web Research (IC
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 3;">
         <strong> Transport Mode Detection using smartphone sensors (Accelerometer, Gyroscope, GPS) </strong>
-        <br>	A comprehensive analysis of the GeoLife and SHL datasets, including loading data, visualizing, outlier detection, etc. In addition, I read state-of-the-art articles for this task at that time and only a little part of this research is in <strong><a href="https://github.com/OmidGhadami95/Geolife-OutlierDetection-TMD"> this link. </a></strong>
+        <br>	A comprehensive research on the GeoLife and SHL datasets, including loading data, visualizing, outlier detection, etc. In addition, I read state-of-the-art articles for this task at that time and only a little part of this research is in <strong><a href="https://github.com/OmidGhadami95/Geolife-OutlierDetection-TMD"> this link. </a></strong>
       </div>
       <div>
         <strong>2022</strong>
