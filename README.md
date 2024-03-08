@@ -1,13 +1,11 @@
 
 # Contact
-
 <div style="margin-top: 7px; text-align: left;">
   <div style="margin: 2px;"><a href="https://github.com/omidghadami95" style="text-decoration: none;"><i class="fab fa-github"></i> GitHub</a></div>
   <div style="margin: 2px;"><a href="linkedin.com/in/omid-ghadami" style="text-decoration: none;"><i class="fab fa-linkedin"></i> LinkedIn</a></div>
   <div style="margin: 2px;"><a href="mailto:omidghadami1995@gmail.com" style="text-decoration: none;"><i class="far fa-envelope"></i> Email</a></div>
   <div style="margin: 2px;"><a href="mailto:omidghadami@stu.usc.ac.ir" style="text-decoration: none;"><i class="far fa-envelope"></i> Email</a></div>
-  
-        <div style="margin: 2px;"><a href="Link" style="text-decoration: none;none;"><i class="far fa-file-pdf"></i> CV</a></div>
+  <div style="margin: 2px;"><a href="Link" style="text-decoration: none;none;"><i class="far fa-file-pdf"></i> CV</a></div>
 </div>
 
 # About Me
@@ -38,7 +36,7 @@
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 3;">
-         Achieving ISO 9001:2015 in quality for manufacturing of Solid, Semi Tubular and Electric contact rivets as the product manager of Electro Sadra Company, Tehran, Iran. 
+         Achieving <strong> ISO 9001:2015 </strong> in quality for manufacturing of Solid, Semi Tubular and Electric contact rivets as the <strong> product manager </strong> of Electro Sadra Company, Tehran, Iran. 
       </div>
       <div>
         <strong>Fall 2022</strong>
