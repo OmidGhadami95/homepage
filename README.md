@@ -21,6 +21,31 @@
     </p>
   </div>
 
+# Awards & Honors
+<ul>
+  <li style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 3;">
+        <strong> Ranked 1st </strong> in the master's among 28 students of Software Engineering major with a <strong> 4/ 4 GPA </strong> at the University of Science and Culture, Tehran, Iran. 
+      </div>
+      <div>
+        <strong>Fall 2023</strong>
+      </div>
+    </div>
+  </li>
+</ul>
+<ul>
+  <li style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 3;">
+         Achieving ISO 9001:2015 in quality for manufacturing of Solid, Semi Tubular and Electric contact rivets as the product manager of Electro Sadra Company, Tehran, Iran. 
+      </div>
+      <div>
+        <strong>Fall 2022</strong>
+      </div>
+    </div>
+  </li>
+</ul>
 
 # Education
 <ul>
