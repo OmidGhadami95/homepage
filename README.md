@@ -26,7 +26,7 @@
 <ul>
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-      <div style="flex: 1;">
+      <div style="flex: 3;">
         <strong>University of Science and Culture, Tehran, Iran</strong>
         <br>M.Sc., Software Engineering
         <br>Thesis: Real-time emotion recognition using EfficientNetV2
@@ -39,7 +39,7 @@
   </li>
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-      <div style="flex: 1;">
+      <div style="flex: 3;">
         <strong>Islamic Azad University, Tehran, Iran</strong>
         <br>B.Sc., Information Technology Engineering
       </div>
@@ -54,7 +54,7 @@
 <ul>
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-      <div style="flex: 1;">
+      <div style="flex: 3;">
         <strong> Teaching Assistant, University of Science and Culture, Tehran, Iran</strong>
         <br>	Teaching assistant of the Undergraduate Artificial Intelligence course. Instructor name: Dr. Azadeh Tabatabaei
       </div>
@@ -66,7 +66,7 @@
   
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-      <div style="flex: 1;">
+      <div style="flex: 3;">
         <strong> Emotion recognition using CNNs on CK+, FER2013, and KDEF datasets </strong>
         <br> Further research on the facial emotion recognition in GPU using different CNNs, Quantization-Aware Training (QAT), and Post-Training Quantization (PTQ) for improving human-computer interaction. A part of this research is in <a href="https://github.com/OmidGhadami95/EfficientNetV2_Quantization_CK"> <strong> this link </strong></a>.
       </div>
@@ -78,7 +78,7 @@
 
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-      <div style="flex: 1;">
+      <div style="flex: 3;">
         <strong> Explainable AI and hyperparameter tuning on the Cats VS Dogs dataset </strong>
         <br> Binary classification, SHAP (Explainable Artificial Intelligence), and Grid Search (for tuning hyperparameters) using EfficientNetV2-B0 on Cat VS Dog dataset. A part of this research is in <a href="https://github.com/OmidGhadami95/EfficientNetV2_CatVSDog"> <strong> this link </strong></a>.
       </div>
@@ -90,7 +90,7 @@
 
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-      <div style="flex: 1;">
+      <div style="flex: 3;">
         <strong> Transport Mode Detection using smartphone sensors (Accelerometer, Gyroscope, GPS) </strong>
         <br>	A comprehensive analysis of the GeoLife and SHL datasets, including loading data, visualizing, outlier detection, etc. In addition, I read state-of-the-art articles for this task at that time and only a little part of this research is in <a href="https://github.com/OmidGhadami95/Geolife-OutlierDetection-TMD"> <strong> this link </strong></a>.
       </div>
@@ -102,7 +102,7 @@
   
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-      <div style="flex: 1;">
+      <div style="flex: 3;">
         <strong> Plant disease detection via leaf images on PlantVillage dataset using EfficientNetV2-B0</strong>
         <br> Plant disease detection using pre-trained weights of EfficientNetV2-B0 this implementation is in <a href="https://github.com/OmidGhadami95/EfficientNetV2B0---PlantVillage"> <strong> this link </strong></a>.
       </div>
