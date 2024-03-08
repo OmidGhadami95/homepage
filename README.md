@@ -1,3 +1,10 @@
+<body>
+<div style="display: flex;">
+  <div style="flex: 1; padding: 20px; background-color: #f5f5f5; max-width: 200px; text-align: center;">
+    <img src="assets/img/profile9.png" alt="Profile Picture" width="200" style="border-radius: 50%;">
+  </div>
+</div>
+</body>
 # Contact
 
 <div style="margin-top: 7px; text-align: left;">
