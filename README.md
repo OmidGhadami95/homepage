@@ -17,7 +17,7 @@
       </p>
       <h4 style="margin-bottom: 0;">Research interests:</h4>
     <p style="margin-top: 8;">
-        Machine Learning, Deep Learning, Computer Vision, Data Mining, HCI/ HRI, Optimization for Machine Learning, Computing efficiency of Deep Learning, DNN
+        Machine Learning, Deep Learning, Computer Vision, Data Mining, HCI/ HRI, DNN
     </p>
   </div>
 
