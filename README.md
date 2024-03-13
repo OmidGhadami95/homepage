@@ -112,7 +112,7 @@ resolution scaling.” In 2024 10th International Conference on Web Research (IC
         <br> Binary classification, SHAP (Explainable Artificial Intelligence), and Grid Search (for tuning hyperparameters) using EfficientNetV2-B0 on Cat VS Dog dataset. A part of this research is in <strong><a href="https://github.com/OmidGhadami95/EfficientNetV2_CatVSDog"> this link. </a></strong>
       </div>
       <div>
-        <strong>2022-2023</strong>
+        <strong>2023</strong>
       </div>
     </div>
   </li>
