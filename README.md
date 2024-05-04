@@ -2,11 +2,11 @@
 # About Me
   <div style="flex: 3; padding: 15px;">
       <p>
-         I obtained my M.Sc. in Software Engineering major under the supervision of <strong><a href="http://rezvanian.usc.ac.ir/en"> Dr. Alireza Rezvanian</a></strong> in December 2023 at the University of Science and Culture, Tehran, Iran. I am AI enthusiastic, and passionate about research in different tasks using Machine Learning methods, especially in the intersection of Deep Learning, Computer Vision, and Data Science. Also, I am committed to performing continuous and novel research in these subsets. Starting in fall 2023, <strong>I’m actively looking for Ph.D. positions in the Deep Learning context for fall 2024 to pursue my academic journey to becoming an effective AI researcher.</strong> Any feedback from you is welcome and helpful for my success. Hence, feel free to contact me at any time.
+         I obtained my M.Sc. in Software Engineering major under the supervision of <strong> Dr. Alireza Rezvanian</strong> in December 2023 at the University of Science and Culture, Tehran, Iran. I am AI enthusiastic, and passionate about research in different tasks using Machine Learning methods, especially in the intersection of Deep Learning and Data Science in medical domain. Starting in fall 2023, <strong>I’m actively looking for Ph.D. positions in the Deep Learning context for fall 2024 to pursue my academic journey to becoming an effective researcher.</strong> Any feedback from you is welcome and helpful for my success. Hence, feel free to contact me at any time.
       </p>
       <h4 style="margin-bottom: 0;">Research interests:</h4>
     <p style="margin-top: 8;">
-        Machine Learning, Deep Learning, Computer Vision, Data Mining, HCI, HRI, DNN
+        Machine Learning, Deep Learning, Computer Vision, Data Science
     </p>
   </div>
 
@@ -68,7 +68,7 @@
 <ul>
   <li style="margin-bottom: 10px;">
     <strong> (Submitted)</strong> Omid Ghadami, Alireza Rezvanian, Saeed Shakuri, and Mohammad Hojjat, ”Real-time facial emotion
-recognition in smartphones using EfficientNetV2 and quantization-aware training.” In Neural Computing and Applications, Springer.
+recognition in smartphones using EfficientNetV2 and quantization-aware training.”, Multimedia Tools and Application, Springer
   </li>
     <li style="margin-bottom: 10px;">
     <strong> (Submitted)</strong> Omid Ghadami, Alireza Rezvanian, and Saeed Shakuri, ”Scalable real-time emotion recognition using EfficientNetV2 and
@@ -97,7 +97,7 @@ resolution scaling.” In 2024 10th International Conference on Web Research (IC
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 3;">
         <strong> Emotion recognition using CNNs on CK+, FER2013, and KDEF datasets </strong>
-        <br> Further research on the facial emotion recognition in GPU using different CNNs, Quantization-Aware Training (QAT), and Post-Training Quantization (PTQ) for improving human-computer interaction. A part of this research is in <strong><a href="https://github.com/OmidGhadami95/EfficientNetV2_Quantization_CK"> this link.</a></strong>
+        <br> Further research on the facial emotion recognition using different Deep Learning methods, Quantization-Aware Training (QAT), and Post-Training Quantization (PTQ) for improving human-computer interaction. A part of this research is in <strong><a href="https://github.com/OmidGhadami95/EfficientNetV2_Quantization_CK"> this link.</a></strong>
       </div>
       <div>
         <strong>2022-2023</strong>
@@ -120,8 +120,8 @@ resolution scaling.” In 2024 10th International Conference on Web Research (IC
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 3;">
-        <strong> Transport Mode Detection using smartphone sensors (Accelerometer, Gyroscope, GPS) </strong>
-        <br>	A comprehensive research on the GeoLife and SHL datasets, including loading data, visualizing, outlier detection, etc. In addition, I read state-of-the-art articles for this task at that time and only a little part of this research is in <strong><a href="https://github.com/OmidGhadami95/Geolife-OutlierDetection-TMD"> this link. </a></strong>
+        <strong> Transport Mode Detection </strong>
+        <br>	A comprehensive research on the GeoLife and SHL datasets, including loading data, visualizing, outlier detection, etc. Only a short part of this research is in <strong><a href="https://github.com/OmidGhadami95/Geolife-OutlierDetection-TMD"> this link. </a></strong>
       </div>
       <div>
         <strong>2022</strong>
