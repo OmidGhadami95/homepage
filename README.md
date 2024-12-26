@@ -26,7 +26,7 @@
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 3;">
-        <strong> Outstanding Student Researcher Awarded National Badge </strong>strong> among the students of the University of Science and Culture. 
+        <strong> Outstanding Student Researcher Awarded National Badge </strong> among the students of the University of Science and Culture. 
       </div>
       <div>
         <strong>2023-4</strong>
