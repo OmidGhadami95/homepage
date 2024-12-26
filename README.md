@@ -105,7 +105,7 @@ recognition in smartphones using EfficientNetV2 and quantization-aware training.
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 3;">
-        <strong> Teaching Assistant, Indiana University Indianapolis </strong>
+        <strong> Teaching Assistant, Indiana University Indianapolis (IUI), Indianapolis, Indiana, United States </strong>
         <br>	Teaching assistant of the Graduate Computer Vision Course.
       </div>
       <div>
