@@ -2,11 +2,11 @@
 # About Me
   <div style="flex: 3; padding: 15px;">
       <p>
-         I obtained my M.Sc. in Software Engineering major under the supervision of <strong><a href="https://scholar.google.com/citations?user=1Sln9i0AAAAJ&hl=en">Dr. Alireza Rezvanian</a></strong> in December 2023 at the University of Science and Culture, Tehran, Iran. Now, I am a PhD student of Indiana University Indianapolis, Indiana, United States under the supervision of <strong><a href="https://scholar.google.com/citations?user=U7x7R6YAAAAJ&hl=en">Dr. Hyeju Jang</a></strong>
+         I am a PhD student in Computer Science at Indiana University Indianapolis (IUI), Indiana, United States under the supervision of <strong><a href="https://scholar.google.com/citations?user=U7x7R6YAAAAJ&hl=en">Dr. Hyeju Jang</a></strong>. Also, I obtained my M.Sc. in Software Engineering major under the supervision of <strong><a href="https://scholar.google.com/citations?user=1Sln9i0AAAAJ&hl=en">Dr. Alireza Rezvanian</a></strong> in December 2023 at the University of Science and Culture, Tehran, Iran.
       </p>
       <h4 style="margin-bottom: 0;">Research interests:</h4>
     <p style="margin-top: 8;">
-        Medical applications of Machine Learning, Deep Learning, Computer Vision, Data Science
+        Medical applications of Machine Learning, Natural Language Processing, Deep Learning, Computer Vision
     </p>
   </div>
 
