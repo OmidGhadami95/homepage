@@ -23,6 +23,26 @@
       </div>
     </div>
   </li>
+  <li style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 3;">
+        <strong> Outstanding Student Researcher Awarded National Badge </strong>strong> among the students of the University of Science and Culture in 2023-2024. 
+      </div>
+      <div>
+        <strong>2023</strong>
+      </div>
+    </div>
+  </li>
+  <li style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 3;">
+        <strong> Honorary Diploma </strong> from the Symposium of Frontiers in Computer and Data Sciences, hosted by Khatam University, Tehran, Iran. 
+      </div>
+      <div>
+        <strong>2023</strong>
+      </div>
+    </div>
+  </li>
 </ul>
 
 # Education
