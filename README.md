@@ -46,7 +46,7 @@
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 3;">
-        <strong> ISO 9001 in quality </strong> for manufacturing of Solid, Semi Tubular Rivet and Electric Contact Rivet as the product manager of Electro Sadra Company, Tehran, Iran, 2022. 
+        <strong> ISO 9001 in quality </strong> for manufacturing of Solid, Semi Tubular Rivet and Electric Contact Rivet as the product manager of Electro Sadra Company, Tehran, Iran.
       </div>
       <div>
         <strong>2022</strong>
