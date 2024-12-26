@@ -2,13 +2,14 @@
 # About Me
   <div style="flex: 3; padding: 15px;">
       <p>
-         I obtained my M.Sc. in Software Engineering major under the supervision of <strong> Dr. Alireza Rezvanian</strong> in December 2023 at the University of Science and Culture, Tehran, Iran. I am AI enthusiastic, and passionate about research in different tasks using Machine Learning methods, especially in the intersection of Deep Learning and Data Science in medical domain. Starting in fall 2023, <strong>I’m actively looking for Ph.D. positions in the medical applications of the machine learning context for fall 2024 to pursue my academic journey to becoming an effective researcher.</strong> Any feedback from you is welcome and helpful for my success. Hence, feel free to contact me at any time.
+         I obtained my M.Sc. in Software Engineering major under the supervision of <strong><a href="https://scholar.google.com/citations?user=1Sln9i0AAAAJ&hl=en">Dr. Alireza Rezvanian</a></strong> in December 2023 at the University of Science and Culture, Tehran, Iran. I am AI enthusiastic, and passionate about research in different tasks using Machine Learning methods, especially in the intersection of Deep Learning and Data Science in medical domain. Starting in fall 2023, <strong>I’m actively looking for Ph.D. positions in the medical applications of the machine learning context for fall 2024 to pursue my academic journey to becoming an effective researcher.</strong> Any feedback from you is welcome and helpful for my success. Hence, feel free to contact me at any time.
       </p>
       <h4 style="margin-bottom: 0;">Research interests:</h4>
     <p style="margin-top: 8;">
         Medical applications of Machine Learning, Deep Learning, Computer Vision, Data Science
     </p>
   </div>
+
 
 # Awards & Honors
 <ul>
