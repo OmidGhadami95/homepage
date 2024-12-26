@@ -106,6 +106,18 @@ resolution scaling.” In 2024 10th International Conference on Web Research (IC
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 3;">
+        <strong> Teaching Assistant, Indiana University Indianapolis </strong>
+        <br>	Teaching assistant of the Graduate Computer Vision Course.
+      </div>
+      <div>
+        <strong>Fall 2024</strong>
+      </div>
+    </div>
+  </li>
+
+  <li style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 3;">
         <strong> Teaching Assistant, University of Science and Culture, Tehran, Iran</strong>
         <br>	Teaching assistant of the Undergraduate Machine Learning course.
       </div>
