@@ -96,7 +96,7 @@ recognition in smartphones using EfficientNetV2 and quantization-aware training.
     <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BzxHbp8AAAAJ&citation_for_view=BzxHbp8AAAAJ:d1gkVwhDpl0C"> Omid Ghadami, Alireza Rezvanian, “A Scalable Method for Real-Time Facial Emotion Recognition Using a Polynomial Equation”, International Journal of Web Research (IJWR), October 2024</a>
   </li>
   <li style="margin-bottom: 10px;">
-    <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BzxHbp8AAAAJ&citation_for_view=BzxHbp8AAAAJ:d1gkVwhDpl0C"> Mohammad Hojjat, Mohammad Javad Shayegan, and Omid Ghadami, ”Low-Dose CT Image Denoising based on EfficientNetV2 and Wasserstein GAN” In 2024 10th International Conference on Web Research (ICWR), IEEE, April 2024</a>
+    <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BzxHbp8AAAAJ&citation_for_view=BzxHbp8AAAAJ:u-x6o8ySG0sC"> Mohammad Hojjat, Mohammad Javad Shayegan, and Omid Ghadami, ”Low-Dose CT Image Denoising based on EfficientNetV2 and Wasserstein GAN” In 2024 10th International Conference on Web Research (ICWR), IEEE, April 2024</a>
   </li>
 </ul>
 
