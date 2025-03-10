@@ -111,7 +111,7 @@ recognition in smartphones using EfficientNetV2 and quantization-aware training.
   </li>
 </ul>
 
-# Selective Research, Presentation, and Teaching Experiences
+# Selective Codes on GitHub
 <ul>
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
