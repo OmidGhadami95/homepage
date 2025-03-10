@@ -6,7 +6,7 @@
       </p>
       <h4 style="margin-bottom: 0;">Research interests:</h4>
     <p style="margin-top: 8;">
-        Medical applications of Machine Learning, Natural Language Processing, Deep Learning, Computer Vision
+        Medical and HCI applications of Machine Learning, Natural Language Processing, Deep Learning, Computer Vision, NLP
     </p>
   </div>
 
@@ -26,7 +26,7 @@
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 3;">
-        <strong> Outstanding Student Researcher Awarded National Badge </strong> among the students of the University of Science and Culture. 
+        <strong> Outstanding Student Researcher Awarded National Medal </strong> among the students of the University of Science and Culture. 
       </div>
       <div>
         <strong>2023-4</strong>
@@ -57,6 +57,17 @@
 
 # Education
 <ul>
+  <li style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 3;">
+        <strong>Indiana University Indianapolis, IN, US</strong>
+        <br>PhD, Computer Science
+      </div>
+      <div>
+        <strong>2024-...</strong>
+      </div>
+    </div>
+  </li>
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 3;">
@@ -100,32 +111,8 @@ recognition in smartphones using EfficientNetV2 and quantization-aware training.
   </li>
 </ul>
 
-# Selective Research, Technical, and TA Experiences
+# Selective Research, Presentation, and Teaching Experiences
 <ul>
-  <li style="margin-bottom: 15px;">
-    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-      <div style="flex: 3;">
-        <strong> Teaching Assistant, Indiana University Indianapolis (IUI), Indianapolis, Indiana, United States </strong>
-        <br>	Teaching assistant of the Graduate Computer Vision Course.
-      </div>
-      <div>
-        <strong>Fall 2024</strong>
-      </div>
-    </div>
-  </li>
-
-  <li style="margin-bottom: 15px;">
-    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-      <div style="flex: 3;">
-        <strong> Teaching Assistant, University of Science and Culture, Tehran, Iran</strong>
-        <br>	Teaching assistant of the Undergraduate Machine Learning course.
-      </div>
-      <div>
-        <strong>Fall 2023</strong>
-      </div>
-    </div>
-  </li>
-  
   <li style="margin-bottom: 15px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div style="flex: 3;">
@@ -158,6 +145,105 @@ recognition in smartphones using EfficientNetV2 and quantization-aware training.
       </div>
       <div>
         <strong>2020</strong>
+      </div>
+    </div>
+  </li>
+</ul>
+
+
+# Selective Research, Presentation, and Teaching Experiences
+<ul>
+  <li style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 3;">
+        <strong> Research Assistant, Indiana University Indianapolis (IUI), Indianapolis, Indiana, United States </strong>
+        <br>	Research Assistant of Dr. Hyeju Jang.
+      </div>
+      <div>
+        <strong>Spring 2024</strong>
+      </div>
+    </div>
+  </li>
+  <li style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 3;">
+        <strong> Teaching Assistant, Indiana University Indianapolis (IUI), Indianapolis, Indiana, United States </strong>
+        <br>	Teaching assistant of the Graduate Computer Vision Course.
+      </div>
+      <div>
+        <strong>Fall 2024</strong>
+      </div>
+    </div>
+  </li>
+
+  <li style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 3;">
+        <strong> Presenter | International Conference on Web Research (ICWR 2024), Tehran, Iran</strong>
+        <br>	Presenter of the ''Scalable real-time emotion recognition using EfficientNetV2 and resolution scaling'' paper.
+      </div>
+      <div>
+        <strong>April 2024</strong>
+      </div>
+    </div>
+  </li>
+
+  <li style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 3;">
+        <strong> Presenter | International Conference on Web Research (ICWR 2024), Tehran, Iran</strong>
+        <br>	Delivered a technical tutorial on deploying lightweight deep learning models for real-time facial emotion recognition on smartphones, showcasing optimized frameworks for low-latency inference (<40ms) and mobile-optimized architectures (EfficientNetV2, TensorFlow Lite).
+      </div>
+      <div>
+        <strong>April 2024</strong>
+      </div>
+    </div>
+  </li>
+
+  <li style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 3;">
+        <strong> Presenter | Frontiers in Computer and Data Science held by Khatam University & TeIAS, Tehran, Iran</strong>
+        <br>	Presenter of ''Low-latency sentiment recognition on smartphones using CNNs and INT8 QAT'' which is a one-page paper.
+      </div>
+      <div>
+        <strong>April 2024</strong>
+      </div>
+    </div>
+  </li>
+
+  <li style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 3;">
+        <strong> Article Reviewer</strong>
+        <br>	Article Reviewer of Wiley for one journal paper.
+      </div>
+      <div>
+        <strong>March 2024</strong>
+      </div>
+    </div>
+  </li>
+
+  <li style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 3;">
+        <strong>Product Manager of Electro Sadra Company, Tehran, Iran</strong>
+        <br>	Product manager of Electro Sadra Company for over 6 years and achieving ISO 9001:2015 in 2022 for manufacturing Solid, Tubular, and Contact Rivets.
+      </div>
+      <div>
+        <strong>March 2017 - March 2023</strong>
+      </div>
+    </div>
+  </li>
+
+  <li style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 3;">
+        <strong> Teaching Assistant, University of Science and Culture, Tehran, Iran</strong>
+        <br>	Teaching assistant of the Undergraduate Machine Learning course.
+      </div>
+      <div>
+        <strong>Fall 2023</strong>
       </div>
     </div>
   </li>
